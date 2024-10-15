@@ -5,7 +5,12 @@ package core.Hospital;
 
 public class Hospital {
 
-    private Team teams;
-    private Ward wards;
+private ArrayList<Team> teams;
+private ArrayList<Ward> wards;
+
+public Hospital(){
+this.teams= new ArrayList<>();
+this.wards= new ArrayList<>();
+}
 
 }
