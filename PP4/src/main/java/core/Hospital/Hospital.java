@@ -1,6 +1,9 @@
 
 
 package core.Hospital;
+package core.Team;
+package core.Ward;
+package ArrayList;
 
 
 public class Hospital {
